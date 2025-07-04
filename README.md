@@ -14,7 +14,7 @@ Entrar no mercado de tecnologia como desenvolvedor front-end e continuar evoluin
 
 * HTML5
 * CSS3
-* JavaScript (básico)
+* JavaScript
 * Git e GitHub
 * VSCode
 
