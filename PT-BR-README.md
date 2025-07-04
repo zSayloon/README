@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Eduardo Falabriti!
 
-![banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Olá!%20Eu%20sou%20Eduardo%20Falabriti\&fontSize=35\&fontColor=FFFFFF\&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Olá!%20Eu%20sou%20Eduardo%20Falabriti&fontAlignY=40&fontAlign=50&fontSize=50&reversal=true&animation=twinkling&textBg=false)
 
 Sou um entusiasta da tecnologia em transição de carreira para a área de **Desenvolvimento Web**. Tenho estudado **HTML**, **CSS** e **JavaScript**, com foco na criação de sites responsivos, bem estruturados e visualmente agradáveis. Estou construindo meu portfólio com projetos práticos e buscando minha primeira oportunidade como **Desenvolvedor Front-End**. Atualmente também estou cursando **Desenvolvimento Full Stack Java** para expandir meus conhecimentos e possibilidades na área.
 
