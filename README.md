@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Eduardo Falabriti!
 
-![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello%20there!%20I'm%20Eduardo%20Falabriti&fontAlignY=40&fontAlign=50&fontSize=50&reversal=true)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello%20there!%20I'm%20Eduardo%20Falabriti&fontAlignY=40&fontAlign=50&fontSize=50&reversal=true&animation=twinkling&textBg=false)
 
 I am a technology enthusiast transitioning careers into **Web Development**. I have been studying **HTML**, **CSS**, and **JavaScript**, focusing on creating responsive, well-structured, and visually appealing websites. I am building my portfolio with practical projects and seeking my first opportunity in **Front-End** development. Currently, I am also studying **Java Full Stack Development** to expand my knowledge and skills.
 
