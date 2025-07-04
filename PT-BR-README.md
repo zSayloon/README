@@ -92,5 +92,3 @@ Sempre estudando, sempre evoluindo 💪
 ---
 
 🌟 Obrigado por visitar meu perfil!
-
-🔄 [English Version here](README-en.md)
